@@ -249,7 +249,7 @@ msgstr "Kreativ"
 msgid "ignore-creative"
 msgid_plural "Create %# different burgers in the practice area."
 msgstr[0] "-"
-msgstr[1] "Kreiere %# unterschiedliche Bürger im Übrungsbereich."
+msgstr[1] "Kreiere %# unterschiedliche Burger im Übungsbereich."
 
 #: core/src/com/agateau/burgerparty/model/PerfectAchievement.java:17
 #, java-printf-format
